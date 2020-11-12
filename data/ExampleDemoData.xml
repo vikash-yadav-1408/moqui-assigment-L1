@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity-facade-xml type="demo">
+    <helloworld-component.Example emampleId="TestOne" description="Test one description."/>
+
+</entity-facade-xml>
